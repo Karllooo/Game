@@ -1,2 +1,2 @@
 # Game
-prac
+Practice Game
